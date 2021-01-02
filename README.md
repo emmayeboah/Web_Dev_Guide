@@ -1,9 +1,9 @@
-# Web_Dev_Guide
-A practical web development guide
+# Web Development Guide
+## A practical web development guide
 
-FINDING YOUR PATH
 
-There are many ways to learn how to code.
+
+### There are many ways to learn how to code.
 
 * Work as a developer at a company
 * Start freelancing and /or create your own business or agency.
@@ -14,9 +14,9 @@ There are many ways to learn how to code.
  FRONT-END  vs BACK-END vs FULL STACK
 
 
-BASIC TOOLS
+# BASIC TOOLS
 
-TOOLS 1
+## TOOLS 1
 
 The Necessities 
 
@@ -29,8 +29,8 @@ The Necessities
  * Design(optional) - Adobe XD, Photoshop, Sketch, Figma
  
  
- HTML & CSS
- THE BUIDING BLOCKS
+ # HTML & CSS
+ ## THE BUIDING BLOCKS
  
  HTML/CSS are almost always the first thing you want to learn in web development.
  
@@ -42,7 +42,7 @@ The Necessities
  
  
  
- RESPONSIVE DESIGN
+ # RESPONSIVE DESIGN
  
  Every serious project that you create should look good and be completely usable on all devices
  
@@ -54,13 +54,13 @@ The Necessities
  
  
  
- CUSTOM REUSABLE CSS COMPONENTS
+ # CUSTOM REUSABLE CSS COMPONENTS
  
  Create your own modular , reusable CSS components to use  in your projects.
  Frameworks seem to be a bit less popular.
  
  
- Sass is a CSS pre-processor that makes CSS more efficient and adds more functionality to standard css.
+ ## Sass is a CSS pre-processor that makes CSS more efficient and adds more functionality to standard css.
  
  * Variables
  * Nesting 
@@ -68,7 +68,7 @@ The Necessities
  
  
  
- CSS FRAMEWORKS ( Choose One)
+ # CSS FRAMEWORKS ( Choose One)
  
  A bit less popular than past years, but still very relevant. Great for prototyping and for developers that are not great with designs.
  
@@ -79,7 +79,7 @@ The Necessities
  
  
  
- VANILLA JAVASCRIPT
+ # VANILLA JAVASCRIPT
 
 Javascript is the programming language of the browser. It is important to be able to make your pages dynamic.
  
@@ -91,7 +91,7 @@ Javascript is the programming language of the browser. It is important to be abl
  
  
  
- TOOLS 2
+ # TOOLS 2
  
  Some tools that you may be woking with as a front-end developer
  
@@ -105,7 +105,7 @@ Javascript is the programming language of the browser. It is important to be abl
 
 
 
-BASIC DEPLOYMENT
+# BASIC DEPLOYMENT
 
 You should know how to get our website/apps on to a web server.
 
@@ -122,7 +122,7 @@ You should know how to get our website/apps on to a web server.
  
  
  
- BASIC FRONT END DEVELOPER 
+# BASIC FRONT END DEVELOPER 
  
 * Build  website for individuals and small businesses.
 * Create mobile friendly layouts
