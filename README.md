@@ -1,5 +1,5 @@
 # Web Development Guide
-## A practical web development guide
+## A practical  basic step by step frontend web development guide
 
 
 
